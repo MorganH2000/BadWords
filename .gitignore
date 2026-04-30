@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Database (if you still have it locally)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS junk
+.DS_Store
